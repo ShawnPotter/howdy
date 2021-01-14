@@ -1,0 +1,12 @@
+{
+  "name": "spotterg/sdev328/howdy",
+  "authors": [
+    {
+      "name": "Shawn Potter",
+      "email": "spotter@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
